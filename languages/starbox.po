@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Starbox Voting\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-03 09:41+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: jigenhe <again.0120@hotmail.com>\n"
+"Language-Team: jigenhe <again.0120@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: E:\\s\\wp-content\\plugins\\starbox-voting\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:25
+msgid "Starbox Style Setting&hellip;"
+msgstr ""
+
+#: options.php:42
+msgid "Starbox Setting Updated."
+msgstr ""
+
+#: options.php:44
+msgid "Example Style Setting"
+msgstr ""
+
+#: options.php:49
+msgid "overlay='default', buttons=5, className='default'"
+msgstr ""
+
+#: options.php:54
+msgid "overlay='default', buttons=5, className='dotted'"
+msgstr ""
+
+#: options.php:59
+msgid "overlay='default', buttons=10, className='dotted'"
+msgstr ""
+
+#: options.php:64
+msgid "overlay='pointy', buttons=5, className='default'"
+msgstr ""
+
+#: options.php:69
+msgid "overlay='Big', buttons=10, className='Default'"
+msgstr ""
+
+#: options.php:76
+msgid "overlay='Big', buttons=10, className='Default', ghosting=Yes"
+msgstr ""
+
+#: options.php:80
+msgid "Your Style Setting"
+msgstr ""
+
+#: options.php:82
+msgid "Overlay"
+msgstr ""
+
+#: options.php:83
+msgid "Big"
+msgstr ""
+
+#: options.php:84
+#: options.php:91
+msgid "Pointy"
+msgstr ""
+
+#: options.php:85
+#: options.php:92
+msgid "Default"
+msgstr ""
+
+#: options.php:87
+msgid "Buttons"
+msgstr ""
+
+#: options.php:87
+msgid "Amount of clickable areas,5 or 10"
+msgstr ""
+
+#: options.php:89
+msgid "ClassName"
+msgstr ""
+
+#: options.php:90
+msgid "dotted"
+msgstr ""
+
+#: options.php:94
+msgid "Ghosting"
+msgstr ""
+
+#: options.php:95
+msgid "Yes"
+msgstr ""
+
+#: options.php:96
+msgid "No"
+msgstr ""
+
+#: options.php:99
+msgid "Update Setting &raquo;"
+msgstr ""
+
+#: starbox.php:40
+msgid "You are not allowed to call this page directly."
+msgstr ""
+
